@@ -1,0 +1,10 @@
+
+
+
+go to mongo db /bin folder
+
+>> mongod.exe --dbpath "g:\data"
+
+
+
+>>nodemon server.js         to start server file 
